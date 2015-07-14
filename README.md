@@ -1,4 +1,4 @@
-# Drone_TLD (shadow) : A drone tracker_follower using OpenTLD
+# Drone_TLD (shadow) : A tracking and following application for UAVs using OpenTLD 
 
 ## Packages Required
 - [ardrone_autonomy](https://github.com/AutonomyLab/ardrone_autonomy)
